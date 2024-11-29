@@ -70,11 +70,12 @@ The security and privacy of medical data are crucial. Traditional, centralized h
 ![Patient Registration in Remix](path/to/screenshot.png)
 ![MetaMask Interaction](path/to/another-screenshot.png)
 
-## Project Presentation Video
 
 ## References
 
 - Medinaceli, K. (2024). Blockchain in Healthcare.
 - Health Service Executive, Ireland. (2021). Cybersecurity Incident Report.
 
+## Complete Project on Github
+(https://github.com/2022475/HealthDataManagement-DApp.git)
 
